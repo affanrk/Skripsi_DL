@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 
 # Define the paths
 project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-data_dir = os.path.join(project_dir, 'dataset2')
+data_dir = os.path.join(project_dir, 'dataset')
 train_dir = os.path.join(data_dir, 'train')
 test_dir = os.path.join(data_dir, 'test')
 
