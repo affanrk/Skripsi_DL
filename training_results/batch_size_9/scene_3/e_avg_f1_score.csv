@@ -1,4 +1,4 @@
 Metric,Score
-Precision,0.7144
-Recall,0.7000
-F1 Score,0.6997
+Precision,0.6774
+Recall,0.6667
+F1 Score,0.6646
